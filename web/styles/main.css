@@ -1,0 +1,49 @@
+body {
+ 
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  margin: 0 auto;
+  width: 100%;
+}
+img{
+    float:left
+}
+div{
+    font-size:120%;
+    margin-left: 120px;
+       
+}
+
+h1{
+    text-shadow: 2px 2px 4px #000000;
+    color: orange
+   
+}
+.capital::first-letter {
+  font-size:200%
+}
+li{
+    
+    margin-top: 5pt;
+margin-bottom: 5pt;
+}
+a{
+    color:orange;
+}
+a:hover{
+    color:green
+}
+footer{
+    text-align: center;
+    font-size: 75%;
+}
+
+
+
+
+footer {
+  clear: both;
+  margin: 0 auto;
+  padding-top: .5em;
+  text-align: center;
+}
